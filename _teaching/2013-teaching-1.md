@@ -1,5 +1,5 @@
 ---
-title: "Basic Histology and Embryology"
+title: "Basic Medical Histology and Embryology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013--teaching-1
@@ -8,7 +8,8 @@ date: 2013-01-01
 location: "Ho Chi Minh City, Vietnam"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I started teaching at department of Histology and Embryology as soon as I graduated from medical university. And I continue teaching in this course until now.
+This course is provided in Vietnamese and aim to equip medical students with the basic concepts of Histology and Embryology that applied to medicine. Some material of my lecture is provided as online lecture using google form or microsoft form. You can find it here 
 
 Heading 1
 ======
